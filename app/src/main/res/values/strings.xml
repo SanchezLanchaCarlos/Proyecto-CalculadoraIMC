@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto-CalculadoraIMC</string>
+    <string name="cv_hombre_texto">HOMBRE</string>
+    <string name="cv_mujer_texto">MUJER</string>
+    <string name="cv_altura_texto">ALTURA</string>
+    <string name="cv_peso_texto">PESO</string>
+    <string name="cv_edad_texto">EDAD</string>
+    <string name="b_calcular_texto">Calcular</string>
+    <string name="tv_peso_texto">60</string>
+    <string name="tv_altura_texto">120 cm</string>
+    <string name="tv_edad_texto">30</string>
+</resources>
