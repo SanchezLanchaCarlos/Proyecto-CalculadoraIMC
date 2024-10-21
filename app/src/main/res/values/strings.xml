@@ -6,7 +6,17 @@
     <string name="cv_peso_texto">PESO</string>
     <string name="cv_edad_texto">EDAD</string>
     <string name="b_calcular_texto">Calcular</string>
+    <string name="re_calcular">Re-Calcular</string>
     <string name="tv_peso_texto">60</string>
     <string name="tv_altura_texto">120 cm</string>
     <string name="tv_edad_texto">30</string>
+    <string name="bajo_peso">Bajo Peso</string>
+    <string name="normal">Normal</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="normal_ext">Se encuentra dendro del rango de peso normal o saludable</string>
+    <string name="bajoPeso_ext">Se encuentra dendro del rango de bajo peso</string>
+    <string name="sobrepeso_ext">Se encuentra dendro del rango de sobrepeso</string>
+    <string name="obesidad_ext">Se encuentra dendro del rango de obesidad</string>
+    <string name="tu_resultado">Tu resultado</string>
 </resources>

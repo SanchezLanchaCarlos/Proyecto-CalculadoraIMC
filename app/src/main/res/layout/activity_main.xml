@@ -106,7 +106,10 @@
 
             <com.google.android.material.slider.RangeSlider
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:valueFrom="120"
+                android:valueTo="200"
+                android:stepSize="1"/>
 
         </LinearLayout>
     </androidx.cardview.widget.CardView>
