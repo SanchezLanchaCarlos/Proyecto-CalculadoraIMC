@@ -28,18 +28,19 @@
         android:layout_marginTop="30dp"
         android:layout_marginStart="5dp"
         android:layout_marginEnd="5dp"
+        app:cardBackgroundColor="@color/fondo_cvs"
         app:layout_constraintTop_toBottomOf="@id/tv_resultado"
         app:layout_constraintStart_toStartOf="parent">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/fondo_cvs"
             app:cardCornerRadius="16dp"
             android:orientation="vertical"
             android:gravity="center">
 
             <TextView
+                android:id="@+id/tv_titulo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="40dp"
@@ -48,6 +49,7 @@
                 android:textSize="20sp" />
 
             <TextView
+                android:id="@+id/tv_imc"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="20.76"
@@ -57,6 +59,7 @@
                 android:layout_marginBottom="40dp"/>
 
             <TextView
+                android:id="@+id/tv_descripcion"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/normal_ext"

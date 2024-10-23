@@ -5,4 +5,9 @@
     <color name="fondo_app">#193656</color>
     <color name="fondo_cvs">#2196F3</color>
     <color name="fondo_fab">#202020</color>
+    <color name="fondo_csv_oscuro">#0E3759</color>
+    <color name="amarillo">#FFFF00</color>
+    <color name="verde">#88DC65</color>
+    <color name="naranja">#F7BD56</color>
+    <color name="rojo">#FF0000</color>
 </resources>
